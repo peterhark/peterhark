@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @peterhark - just Pete does fine
+- 👀 I’m interested in - living and learning
+- 🌱 I’m currently learning - typescript
